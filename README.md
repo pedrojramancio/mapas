@@ -1,4 +1,4 @@
 # mapas
-Aprendendo a usar mapas
+Aprendendo a usar mapas.
 
 Por enquanto é só.
